@@ -13,4 +13,4 @@
       Para isso, usamos o comando:
       git config --global user.email "EMAIL"
       E em seguida, para configurar um apelido:
-      $ git config --global [user.name](http://user.name/) APELIDO
+      $ git config --global [user.name](http://user.name/) "APELIDO"
